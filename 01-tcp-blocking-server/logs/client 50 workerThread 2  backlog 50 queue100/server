@@ -1,0 +1,193 @@
+C:\Users\oqiljon.qirgizboev\.jdks\corretto-17.0.14\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1.3\lib\idea_rt.jar=63251:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1.3\bin" -Dfile.encoding=windows-1251 -classpath D:\main\expirence\github\java-networking-deep-dive\out\production\java-networking-deep-dive server.Server
+Server started
+[19:12:06.765446700][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:12:07.770747400][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:12:08.763600300][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:12:09.772501900][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:12:10.767716][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:12:11.769423400][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[ACCEPTOR] accepted=1 queued=1 queueSize=1
+[WORKER-START] activeWorkers=1 queueSize=0
+[WORKER-START] activeWorkers=2 queueSize=0
+[ACCEPTOR] accepted=2 queued=2 queueSize=1
+[ACCEPTOR] accepted=3 queued=3 queueSize=1
+[ACCEPTOR] accepted=4 queued=4 queueSize=2
+[ACCEPTOR] accepted=5 queued=5 queueSize=3
+[ACCEPTOR] accepted=6 queued=6 queueSize=4
+[ACCEPTOR] accepted=7 queued=7 queueSize=5
+[ACCEPTOR] accepted=8 queued=8 queueSize=6
+[ACCEPTOR] accepted=9 queued=9 queueSize=7
+[ACCEPTOR] accepted=10 queued=10 queueSize=8
+[ACCEPTOR] accepted=11 queued=11 queueSize=9
+[ACCEPTOR] accepted=12 queued=12 queueSize=10
+[ACCEPTOR] accepted=13 queued=13 queueSize=11
+[ACCEPTOR] accepted=14 queued=14 queueSize=12
+[ACCEPTOR] accepted=15 queued=15 queueSize=13
+[ACCEPTOR] accepted=16 queued=16 queueSize=14
+[ACCEPTOR] accepted=17 queued=17 queueSize=15
+[ACCEPTOR] accepted=18 queued=18 queueSize=16
+[ACCEPTOR] accepted=19 queued=19 queueSize=17
+[ACCEPTOR] accepted=20 queued=20 queueSize=18
+[ACCEPTOR] accepted=21 queued=21 queueSize=19
+[ACCEPTOR] accepted=22 queued=22 queueSize=20
+[ACCEPTOR] accepted=23 queued=23 queueSize=21
+[ACCEPTOR] accepted=24 queued=24 queueSize=22
+[ACCEPTOR] accepted=25 queued=25 queueSize=23
+[ACCEPTOR] accepted=26 queued=26 queueSize=24
+[ACCEPTOR] accepted=27 queued=27 queueSize=25
+[ACCEPTOR] accepted=28 queued=28 queueSize=26
+[ACCEPTOR] accepted=29 queued=29 queueSize=27
+[ACCEPTOR] accepted=30 queued=30 queueSize=28
+[ACCEPTOR] accepted=31 queued=31 queueSize=29
+[ACCEPTOR] accepted=32 queued=32 queueSize=30
+[ACCEPTOR] accepted=33 queued=33 queueSize=31
+[ACCEPTOR] accepted=34 queued=34 queueSize=32
+[ACCEPTOR] accepted=35 queued=35 queueSize=33
+[ACCEPTOR] accepted=36 queued=36 queueSize=34
+[ACCEPTOR] accepted=37 queued=37 queueSize=35
+[ACCEPTOR] accepted=38 queued=38 queueSize=36
+[ACCEPTOR] accepted=39 queued=39 queueSize=37
+[ACCEPTOR] accepted=40 queued=40 queueSize=38
+[ACCEPTOR] accepted=41 queued=41 queueSize=39
+[ACCEPTOR] accepted=42 queued=42 queueSize=40
+[ACCEPTOR] accepted=43 queued=43 queueSize=41
+[ACCEPTOR] accepted=44 queued=44 queueSize=42
+[ACCEPTOR] accepted=45 queued=45 queueSize=43
+[ACCEPTOR] accepted=46 queued=46 queueSize=44
+[ACCEPTOR] accepted=47 queued=47 queueSize=45
+[ACCEPTOR] accepted=48 queued=48 queueSize=46
+[ACCEPTOR] accepted=49 queued=49 queueSize=47
+[ACCEPTOR] accepted=50 queued=50 queueSize=48
+[19:12:12.769804300][STATS] accepted=50 queued=50 dequeued=2 completed=0 activeWorkers=2 queueSize=48 errors=0
+[WORKER-END] activeWorkers=0 completed=2
+[WORKER-START] activeWorkers=1 queueSize=47
+[WORKER-END] activeWorkers=0 completed=2
+[WORKER-START] activeWorkers=2 queueSize=46
+[19:12:13.769548600][STATS] accepted=50 queued=50 dequeued=4 completed=2 activeWorkers=2 queueSize=46 errors=0
+[WORKER-END] activeWorkers=0 completed=4
+[WORKER-START] activeWorkers=1 queueSize=45
+[WORKER-END] activeWorkers=0 completed=4
+[WORKER-START] activeWorkers=2 queueSize=44
+[19:12:14.762080100][STATS] accepted=50 queued=50 dequeued=6 completed=4 activeWorkers=2 queueSize=44 errors=0
+[WORKER-END] activeWorkers=1 completed=5
+[WORKER-START] activeWorkers=1 queueSize=43
+[WORKER-END] activeWorkers=0 completed=6
+[WORKER-START] activeWorkers=2 queueSize=42
+[19:12:15.767201600][STATS] accepted=50 queued=50 dequeued=8 completed=6 activeWorkers=2 queueSize=42 errors=0
+[WORKER-END] activeWorkers=0 completed=8
+[WORKER-START] activeWorkers=1 queueSize=41
+[WORKER-END] activeWorkers=0 completed=8
+[WORKER-START] activeWorkers=2 queueSize=40
+[19:12:16.762906200][STATS] accepted=50 queued=50 dequeued=10 completed=8 activeWorkers=2 queueSize=40 errors=0
+[WORKER-END] activeWorkers=0 completed=10
+[WORKER-START] activeWorkers=1 queueSize=39
+[WORKER-END] activeWorkers=0 completed=10
+[WORKER-START] activeWorkers=2 queueSize=38
+[19:12:17.763575300][STATS] accepted=50 queued=50 dequeued=12 completed=10 activeWorkers=2 queueSize=38 errors=0
+[WORKER-END] activeWorkers=0 completed=12
+[WORKER-START] activeWorkers=1 queueSize=37
+[WORKER-END] activeWorkers=0 completed=12
+[WORKER-START] activeWorkers=2 queueSize=36
+[19:12:18.767881100][STATS] accepted=50 queued=50 dequeued=14 completed=12 activeWorkers=2 queueSize=36 errors=0
+[WORKER-END] activeWorkers=1 completed=13
+[WORKER-START] activeWorkers=1 queueSize=35
+[WORKER-END] activeWorkers=0 completed=14
+[WORKER-START] activeWorkers=2 queueSize=34
+[19:12:19.759887600][STATS] accepted=50 queued=50 dequeued=16 completed=14 activeWorkers=2 queueSize=34 errors=0
+[WORKER-END] activeWorkers=0 completed=16
+[WORKER-START] activeWorkers=1 queueSize=33
+[WORKER-END] activeWorkers=0 completed=16
+[WORKER-START] activeWorkers=2 queueSize=32
+[19:12:20.769196900][STATS] accepted=50 queued=50 dequeued=18 completed=16 activeWorkers=2 queueSize=32 errors=0
+[WORKER-END] activeWorkers=0 completed=18
+[WORKER-START] activeWorkers=1 queueSize=31
+[WORKER-END] activeWorkers=0 completed=18
+[WORKER-START] activeWorkers=2 queueSize=30
+[19:12:21.762926900][STATS] accepted=50 queued=50 dequeued=20 completed=18 activeWorkers=2 queueSize=30 errors=0
+[WORKER-END] activeWorkers=0 completed=20
+[WORKER-START] activeWorkers=1 queueSize=29
+[WORKER-END] activeWorkers=0 completed=20
+[WORKER-START] activeWorkers=2 queueSize=28
+[19:12:22.770348700][STATS] accepted=50 queued=50 dequeued=22 completed=20 activeWorkers=2 queueSize=28 errors=0
+[WORKER-END] activeWorkers=0 completed=22
+[WORKER-START] activeWorkers=1 queueSize=27
+[WORKER-END] activeWorkers=0 completed=22
+[WORKER-START] activeWorkers=2 queueSize=26
+[19:12:23.774064100][STATS] accepted=50 queued=50 dequeued=24 completed=22 activeWorkers=2 queueSize=26 errors=0
+[WORKER-END] activeWorkers=0 completed=24
+[WORKER-START] activeWorkers=1 queueSize=25
+[WORKER-END] activeWorkers=0 completed=24
+[WORKER-START] activeWorkers=2 queueSize=24
+[19:12:24.763209900][STATS] accepted=50 queued=50 dequeued=26 completed=24 activeWorkers=2 queueSize=24 errors=0
+[WORKER-END] activeWorkers=0 completed=26
+[WORKER-START] activeWorkers=1 queueSize=23
+[WORKER-END] activeWorkers=0 completed=26
+[WORKER-START] activeWorkers=2 queueSize=22
+[19:12:25.770046300][STATS] accepted=50 queued=50 dequeued=28 completed=26 activeWorkers=2 queueSize=22 errors=0
+[WORKER-END] activeWorkers=1 completed=27
+[WORKER-START] activeWorkers=1 queueSize=21
+[WORKER-END] activeWorkers=0 completed=28
+[WORKER-START] activeWorkers=2 queueSize=20
+[19:12:26.773438400][STATS] accepted=50 queued=50 dequeued=30 completed=28 activeWorkers=2 queueSize=20 errors=0
+[WORKER-END] activeWorkers=1 completed=29
+[WORKER-END] activeWorkers=0 completed=30
+[WORKER-START] activeWorkers=2 queueSize=18
+[WORKER-START] activeWorkers=1 queueSize=19
+[19:12:27.761384200][STATS] accepted=50 queued=50 dequeued=32 completed=30 activeWorkers=2 queueSize=18 errors=0
+[WORKER-END] activeWorkers=0 completed=32
+[WORKER-START] activeWorkers=1 queueSize=17
+[WORKER-END] activeWorkers=0 completed=32
+[WORKER-START] activeWorkers=2 queueSize=16
+[19:12:28.764386900][STATS] accepted=50 queued=50 dequeued=34 completed=32 activeWorkers=2 queueSize=16 errors=0
+[WORKER-END] activeWorkers=1 completed=33
+[WORKER-START] activeWorkers=1 queueSize=15
+[WORKER-END] activeWorkers=0 completed=34
+[WORKER-START] activeWorkers=2 queueSize=14
+[19:12:29.771245300][STATS] accepted=50 queued=50 dequeued=36 completed=34 activeWorkers=2 queueSize=14 errors=0
+[WORKER-END] activeWorkers=1 completed=35
+[WORKER-END] activeWorkers=0 completed=36
+[WORKER-START] activeWorkers=2 queueSize=12
+[WORKER-START] activeWorkers=1 queueSize=13
+[19:12:30.768868400][STATS] accepted=50 queued=50 dequeued=38 completed=36 activeWorkers=2 queueSize=12 errors=0
+[WORKER-END] activeWorkers=0 completed=38
+[WORKER-START] activeWorkers=1 queueSize=11
+[WORKER-END] activeWorkers=0 completed=38
+[WORKER-START] activeWorkers=2 queueSize=10
+[19:12:31.763556600][STATS] accepted=50 queued=50 dequeued=40 completed=38 activeWorkers=2 queueSize=10 errors=0
+[WORKER-END] activeWorkers=1 completed=39
+[WORKER-START] activeWorkers=1 queueSize=9
+[WORKER-END] activeWorkers=0 completed=40
+[WORKER-START] activeWorkers=2 queueSize=8
+[19:12:32.767658900][STATS] accepted=50 queued=50 dequeued=42 completed=40 activeWorkers=2 queueSize=8 errors=0
+[WORKER-END] activeWorkers=0 completed=42
+[WORKER-START] activeWorkers=1 queueSize=7
+[WORKER-END] activeWorkers=0 completed=42
+[WORKER-START] activeWorkers=2 queueSize=6
+[19:12:33.760634600][STATS] accepted=50 queued=50 dequeued=44 completed=42 activeWorkers=2 queueSize=6 errors=0
+[WORKER-END] activeWorkers=0 completed=44
+[WORKER-START] activeWorkers=1 queueSize=5
+[WORKER-END] activeWorkers=0 completed=44
+[WORKER-START] activeWorkers=2 queueSize=4
+[19:12:34.765098600][STATS] accepted=50 queued=50 dequeued=46 completed=44 activeWorkers=2 queueSize=4 errors=0
+[WORKER-END] activeWorkers=0 completed=46
+[WORKER-START] activeWorkers=1 queueSize=3
+[WORKER-END] activeWorkers=0 completed=46
+[WORKER-START] activeWorkers=2 queueSize=2
+[19:12:35.762521200][STATS] accepted=50 queued=50 dequeued=48 completed=46 activeWorkers=2 queueSize=2 errors=0
+[WORKER-END] activeWorkers=0 completed=48
+[WORKER-START] activeWorkers=1 queueSize=1
+[WORKER-END] activeWorkers=0 completed=48
+[WORKER-START] activeWorkers=2 queueSize=0
+[19:12:36.769025400][STATS] accepted=50 queued=50 dequeued=50 completed=48 activeWorkers=2 queueSize=0 errors=0
+[WORKER-END] activeWorkers=0 completed=50
+[WORKER-END] activeWorkers=0 completed=50
+[19:12:37.761832500][STATS] accepted=50 queued=50 dequeued=50 completed=50 activeWorkers=0 queueSize=0 errors=0
+[19:12:38.764601100][STATS] accepted=50 queued=50 dequeued=50 completed=50 activeWorkers=0 queueSize=0 errors=0
+[19:12:39.766698200][STATS] accepted=50 queued=50 dequeued=50 completed=50 activeWorkers=0 queueSize=0 errors=0
+[19:12:40.768454100][STATS] accepted=50 queued=50 dequeued=50 completed=50 activeWorkers=0 queueSize=0 errors=0
+[19:12:41.769522200][STATS] accepted=50 queued=50 dequeued=50 completed=50 activeWorkers=0 queueSize=0 errors=0
+[19:12:42.764663200][STATS] accepted=50 queued=50 dequeued=50 completed=50 activeWorkers=0 queueSize=0 errors=0
+[19:12:43.768399200][STATS] accepted=50 queued=50 dequeued=50 completed=50 activeWorkers=0 queueSize=0 errors=0
+[19:12:44.761398700][STATS] accepted=50 queued=50 dequeued=50 completed=50 activeWorkers=0 queueSize=0 errors=0
+
+Process finished with exit code 130

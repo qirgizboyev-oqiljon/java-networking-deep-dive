@@ -1,0 +1,64 @@
+C:\Users\oqiljon.qirgizboev\.jdks\corretto-17.0.14\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1.3\lib\idea_rt.jar=52817:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1.3\bin" -Dfile.encoding=windows-1251 -classpath D:\main\expirence\github\java-networking-deep-dive\out\production\java-networking-deep-dive server.Server
+Server started
+[19:19:52.214055800][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:19:53.211767800][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:19:54.211128300][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:19:55.212155][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:19:56.212981][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:19:57.214692][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[ACCEPTOR] accepted=1 queued=1 queueSize=1
+[WORKER-START] activeWorkers=1 queueSize=0
+[WORKER-START] activeWorkers=2 queueSize=0
+[ACCEPTOR] accepted=2 queued=2 queueSize=1
+[ACCEPTOR] accepted=3 queued=3 queueSize=1
+[ACCEPTOR] accepted=4 queued=4 queueSize=2
+[ACCEPTOR] accepted=5 queued=5 queueSize=2
+[WORKER-START] activeWorkers=4 queueSize=1
+[WORKER-START] activeWorkers=3 queueSize=1
+[WORKER-START] activeWorkers=5 queueSize=0
+[ACCEPTOR] accepted=6 queued=6 queueSize=1
+[ACCEPTOR] accepted=7 queued=7 queueSize=2
+[ACCEPTOR] accepted=8 queued=8 queueSize=3
+[ACCEPTOR] accepted=9 queued=9 queueSize=4
+[ACCEPTOR] accepted=10 queued=10 queueSize=5
+[19:19:58.211048300][STATS] accepted=11 queued=10 dequeued=5 completed=0 activeWorkers=5 queueSize=5 errors=0
+[WORKER-END] activeWorkers=2 completed=3
+[WORKER-END] activeWorkers=2 completed=3
+[WORKER-END] activeWorkers=2 completed=3
+[WORKER-START] activeWorkers=4 queueSize=4
+[ACCEPTOR] accepted=11 queued=11 queueSize=5
+[WORKER-START] activeWorkers=3 queueSize=4
+[ACCEPTOR] accepted=12 queued=12 queueSize=4
+[WORKER-START] activeWorkers=5 queueSize=3
+[ACCEPTOR] accepted=13 queued=13 queueSize=5
+[WORKER-END] activeWorkers=4 completed=4
+[WORKER-END] activeWorkers=3 completed=5
+[WORKER-START] activeWorkers=4 queueSize=4
+[WORKER-START] activeWorkers=5 queueSize=3
+[19:19:59.207363900][STATS] accepted=13 queued=13 dequeued=10 completed=5 activeWorkers=5 queueSize=3 errors=0
+[WORKER-END] activeWorkers=4 completed=6
+[WORKER-START] activeWorkers=5 queueSize=2
+[WORKER-END] activeWorkers=3 completed=8
+[WORKER-END] activeWorkers=3 completed=8
+[WORKER-END] activeWorkers=1 completed=10
+[WORKER-END] activeWorkers=2 completed=9
+[WORKER-START] activeWorkers=3 queueSize=0
+[WORKER-START] activeWorkers=2 queueSize=1
+[19:20:00.211061500][STATS] accepted=13 queued=13 dequeued=13 completed=10 activeWorkers=3 queueSize=0 errors=0
+[WORKER-END] activeWorkers=2 completed=11
+[WORKER-END] activeWorkers=1 completed=12
+[WORKER-END] activeWorkers=0 completed=13
+[19:20:01.212474300][STATS] accepted=13 queued=13 dequeued=13 completed=13 activeWorkers=0 queueSize=0 errors=0
+[19:20:02.212577][STATS] accepted=13 queued=13 dequeued=13 completed=13 activeWorkers=0 queueSize=0 errors=0
+[19:20:03.211643900][STATS] accepted=13 queued=13 dequeued=13 completed=13 activeWorkers=0 queueSize=0 errors=0
+[19:20:04.210343800][STATS] accepted=13 queued=13 dequeued=13 completed=13 activeWorkers=0 queueSize=0 errors=0
+[19:20:05.210820400][STATS] accepted=13 queued=13 dequeued=13 completed=13 activeWorkers=0 queueSize=0 errors=0
+[19:20:06.212359100][STATS] accepted=13 queued=13 dequeued=13 completed=13 activeWorkers=0 queueSize=0 errors=0
+[19:20:07.210502200][STATS] accepted=13 queued=13 dequeued=13 completed=13 activeWorkers=0 queueSize=0 errors=0
+[19:20:08.211739700][STATS] accepted=13 queued=13 dequeued=13 completed=13 activeWorkers=0 queueSize=0 errors=0
+[19:20:09.211810800][STATS] accepted=13 queued=13 dequeued=13 completed=13 activeWorkers=0 queueSize=0 errors=0
+[19:20:10.224538500][STATS] accepted=13 queued=13 dequeued=13 completed=13 activeWorkers=0 queueSize=0 errors=0
+[19:20:11.210531900][STATS] accepted=13 queued=13 dequeued=13 completed=13 activeWorkers=0 queueSize=0 errors=0
+[19:20:12.210557100][STATS] accepted=13 queued=13 dequeued=13 completed=13 activeWorkers=0 queueSize=0 errors=0
+
+Process finished with exit code 130

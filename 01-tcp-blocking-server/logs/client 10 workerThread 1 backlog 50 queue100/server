@@ -1,0 +1,66 @@
+C:\Users\oqiljon.qirgizboev\.jdks\corretto-17.0.14\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1.3\lib\idea_rt.jar=63156:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1.3\bin" -Dfile.encoding=windows-1251 -classpath D:\main\expirence\github\java-networking-deep-dive\out\production\java-networking-deep-dive server.Server
+Server started
+[19:09:02.947202600][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:09:03.944977400][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:09:04.939580800][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:09:05.947989500][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:09:06.951420400][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:09:07.943643600][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:09:08.952338100][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:09:09.939611400][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:09:10.950440700][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:09:11.952247100][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:09:12.940153900][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[19:09:13.939718200][STATS] accepted=0 queued=0 dequeued=0 completed=0 activeWorkers=0 queueSize=0 errors=0
+[ACCEPTOR] accepted=1 queued=1 queueSize=1
+[WORKER-START] activeWorkers=1 queueSize=0
+[ACCEPTOR] accepted=2 queued=2 queueSize=1
+[ACCEPTOR] accepted=3 queued=3 queueSize=2
+[ACCEPTOR] accepted=4 queued=4 queueSize=3
+[ACCEPTOR] accepted=5 queued=5 queueSize=4
+[ACCEPTOR] accepted=6 queued=6 queueSize=5
+[ACCEPTOR] accepted=7 queued=7 queueSize=6
+[ACCEPTOR] accepted=8 queued=8 queueSize=7
+[ACCEPTOR] accepted=9 queued=9 queueSize=8
+[ACCEPTOR] accepted=10 queued=10 queueSize=9
+[19:09:14.940678400][STATS] accepted=10 queued=10 dequeued=1 completed=0 activeWorkers=1 queueSize=9 errors=0
+[WORKER-END] activeWorkers=0 completed=1
+[WORKER-START] activeWorkers=1 queueSize=8
+[19:09:15.943093900][STATS] accepted=10 queued=10 dequeued=2 completed=1 activeWorkers=1 queueSize=8 errors=0
+[WORKER-END] activeWorkers=0 completed=2
+[WORKER-START] activeWorkers=1 queueSize=7
+[19:09:16.952694600][STATS] accepted=10 queued=10 dequeued=3 completed=2 activeWorkers=1 queueSize=7 errors=0
+[WORKER-END] activeWorkers=0 completed=3
+[WORKER-START] activeWorkers=1 queueSize=6
+[19:09:17.948704300][STATS] accepted=10 queued=10 dequeued=4 completed=3 activeWorkers=1 queueSize=6 errors=0
+[WORKER-END] activeWorkers=0 completed=4
+[WORKER-START] activeWorkers=1 queueSize=5
+[19:09:18.941384200][STATS] accepted=10 queued=10 dequeued=5 completed=4 activeWorkers=1 queueSize=5 errors=0
+[WORKER-END] activeWorkers=0 completed=5
+[WORKER-START] activeWorkers=1 queueSize=4
+[19:09:19.940414900][STATS] accepted=10 queued=10 dequeued=6 completed=5 activeWorkers=1 queueSize=4 errors=0
+[WORKER-END] activeWorkers=0 completed=6
+[WORKER-START] activeWorkers=1 queueSize=3
+[19:09:20.952350600][STATS] accepted=10 queued=10 dequeued=7 completed=6 activeWorkers=1 queueSize=3 errors=0
+[WORKER-END] activeWorkers=0 completed=7
+[WORKER-START] activeWorkers=1 queueSize=2
+[19:09:21.953098800][STATS] accepted=10 queued=10 dequeued=8 completed=7 activeWorkers=1 queueSize=2 errors=0
+[WORKER-END] activeWorkers=0 completed=8
+[WORKER-START] activeWorkers=1 queueSize=1
+[19:09:22.943804500][STATS] accepted=10 queued=10 dequeued=9 completed=8 activeWorkers=1 queueSize=1 errors=0
+[WORKER-END] activeWorkers=0 completed=9
+[WORKER-START] activeWorkers=1 queueSize=0
+[19:09:23.944730][STATS] accepted=10 queued=10 dequeued=10 completed=9 activeWorkers=1 queueSize=0 errors=0
+[WORKER-END] activeWorkers=0 completed=10
+[19:09:24.946365600][STATS] accepted=10 queued=10 dequeued=10 completed=10 activeWorkers=0 queueSize=0 errors=0
+[19:09:25.942838800][STATS] accepted=10 queued=10 dequeued=10 completed=10 activeWorkers=0 queueSize=0 errors=0
+[19:09:26.943971400][STATS] accepted=10 queued=10 dequeued=10 completed=10 activeWorkers=0 queueSize=0 errors=0
+[19:09:27.937971][STATS] accepted=10 queued=10 dequeued=10 completed=10 activeWorkers=0 queueSize=0 errors=0
+[19:09:28.946211200][STATS] accepted=10 queued=10 dequeued=10 completed=10 activeWorkers=0 queueSize=0 errors=0
+[19:09:29.943306900][STATS] accepted=10 queued=10 dequeued=10 completed=10 activeWorkers=0 queueSize=0 errors=0
+[19:09:30.950983500][STATS] accepted=10 queued=10 dequeued=10 completed=10 activeWorkers=0 queueSize=0 errors=0
+[19:09:31.940036600][STATS] accepted=10 queued=10 dequeued=10 completed=10 activeWorkers=0 queueSize=0 errors=0
+[19:09:32.950201500][STATS] accepted=10 queued=10 dequeued=10 completed=10 activeWorkers=0 queueSize=0 errors=0
+[19:09:33.944774400][STATS] accepted=10 queued=10 dequeued=10 completed=10 activeWorkers=0 queueSize=0 errors=0
+
+Process finished with exit code 130

@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
+  <diagram name="Page-1" id="1KG2713wGPdk_-jbCogP">
+    <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RTvpM5Nsnbswolt3QHhn-6" edge="1" parent="1" source="RTvpM5Nsnbswolt3QHhn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RTvpM5Nsnbswolt3QHhn-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RTvpM5Nsnbswolt3QHhn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Clients" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="RTvpM5Nsnbswolt3QHhn-8" edge="1" parent="1" source="RTvpM5Nsnbswolt3QHhn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RTvpM5Nsnbswolt3QHhn-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RTvpM5Nsnbswolt3QHhn-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Acceptor Thread" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="269" as="geometry" />
+        </mxCell>
+        <mxCell id="RTvpM5Nsnbswolt3QHhn-7" edge="1" parent="1" source="RTvpM5Nsnbswolt3QHhn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RTvpM5Nsnbswolt3QHhn-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RTvpM5Nsnbswolt3QHhn-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Server Socket" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="184" as="geometry" />
+        </mxCell>
+        <mxCell id="RTvpM5Nsnbswolt3QHhn-9" edge="1" parent="1" source="RTvpM5Nsnbswolt3QHhn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RTvpM5Nsnbswolt3QHhn-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RTvpM5Nsnbswolt3QHhn-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="BlockingQueue&lt;div&gt;can grow&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="354" as="geometry" />
+        </mxCell>
+        <mxCell id="RTvpM5Nsnbswolt3QHhn-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="WorkerThreads&lt;div&gt;blocking read/write&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="439" as="geometry" />
+        </mxCell>
+        <mxCell id="RTvpM5Nsnbswolt3QHhn-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Blocking TCP server – BIO model" vertex="1">
+          <mxGeometry height="50" width="180" x="440" y="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,23 @@
+C:\Users\oqiljon.qirgizboev\.jdks\corretto-17.0.14\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1.3\lib\idea_rt.jar=63161:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1.3\bin" -Dfile.encoding=windows-1251 -classpath D:\main\expirence\github\java-networking-deep-dive\out\production\java-networking-deep-dive client.Clients
+pool-1-thread-2 <- OK
+
+pool-1-thread-8 <- OK
+
+pool-1-thread-4 <- OK
+
+pool-1-thread-10 <- OK
+
+pool-1-thread-3 <- OK
+
+pool-1-thread-7 <- OK
+
+pool-1-thread-5 <- OK
+
+pool-1-thread-6 <- OK
+
+pool-1-thread-9 <- OK
+
+pool-1-thread-1 <- OK
+
+
+Process finished with exit code 0
